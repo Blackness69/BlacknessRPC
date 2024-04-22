@@ -1,4 +1,6 @@
 const Discord = require('discord.js-selfbot-v13');
+const { readFileSync } = require('fs');
+
 const client = new Discord.Client({
   readyStatus: false,
   checkUpdate: false
@@ -38,6 +40,6 @@ client.on('ready', async () => {
 
 require('dotenv').config();
 keepAlive();
-client.login(process.env.token) //Your account token
+client.login(process.env.token) || readFileSync('token.txt', 'utf-8'); //Your account token
 
 // man put ur token in secrets
