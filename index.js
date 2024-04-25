@@ -27,7 +27,7 @@ client.on('ready', async () => {
 
 
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1209078672993165312/1232035529411792936/images_1_1.jpg?ex=6627fe00&is=6626ac80&hm=38980b252589ed501195b0578b6faa2ad3574db3eed3f29de29101e982bebbf9&')
+    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1209078672993165312/1232904347877113866/images_1_1.jpg?ex=662b2726&is=6629d5a6&hm=6fe37bf0827de6d24974fddc2e3f191933a9e5b6c4e71a64b00aacbfdb67de84&')
     .setAssetsLargeText('Developer of CattyPal')
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1209078672993165312/1232744735051874366/IMG_20240423_210648-removebg-preview.png?ex=662a9280&is=66294100&hm=1f857223fbec425669b783c584a260d25efea38926251b8f59c107584ecdeb79&')
     .setAssetsSmallText('🥀!NotBlackness </>')
