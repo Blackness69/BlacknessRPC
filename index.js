@@ -31,7 +31,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('Developer of CattyPal')
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1209078672993165312/1232744735051874366/IMG_20240423_210648-removebg-preview.png?ex=662a9280&is=66294100&hm=1f857223fbec425669b783c584a260d25efea38926251b8f59c107584ecdeb79&')
     .setAssetsSmallText('🥀!NotBlackness </>')
-        .addButton('CattyPal Support Server', "https://discord.com/invite/YfN898gyUG")
+        .addButton('CattyPal Support Server', "https://discord.com/invite/yyudU8K6fe")
     .addButton('Add CattyPal', "https://discord.com/oauth2/authorize?client_id=1229438321395109929&permissions=8&scope=bot+applications.commands")
 
   client.user.setActivity(r);
