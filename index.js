@@ -27,9 +27,9 @@ client.on('ready', async () => {
 
 
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1209078672993165312/1232904347877113866/images_1_1.jpg?ex=662b2726&is=6629d5a6&hm=6fe37bf0827de6d24974fddc2e3f191933a9e5b6c4e71a64b00aacbfdb67de84&')
+    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1233782937795821660/1235196535847915623/images_1_1.jpg?ex=66337dea&is=66322c6a&hm=e5e652064f09bf70b4ade7de7f71b8abb73a9af61b41ff67447b78576e7894b7&')
     .setAssetsLargeText('Developer of CattyPal')
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1209078672993165312/1232744735051874366/IMG_20240423_210648-removebg-preview.png?ex=662a9280&is=66294100&hm=1f857223fbec425669b783c584a260d25efea38926251b8f59c107584ecdeb79&')
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1233782937795821660/1235196527962619914/IMG_20240423_210648-removebg-preview.png?ex=66337de9&is=66322c69&hm=62632096c1e488d4ab7b93f0f5d84f46494b5fd613db8148a3c1104848dd15d9&')
     .setAssetsSmallText('🥀!NotBlackness </>')
         .addButton('CattyPal Support Server', "https://discord.com/invite/yyudU8K6fe")
     .addButton('Add CattyPal', "https://discord.com/oauth2/authorize?client_id=1229438321395109929&permissions=8&scope=bot+applications.commands")
