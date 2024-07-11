@@ -22,17 +22,17 @@ client.on('ready', async () => {
     .setURL('https://bit.ly/3oQZWb0')
     .setState('JavaScript Discord Bot Developer')
 
-    .setName('🥀!NotBlacknes </>')
-    .setDetails('I Love Coding Soo Much <3')
+    .setName('🥀! NotBlacknes </>')
+    .setDetails('Discord Bots Developer.')
 
 
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1233782937795821660/1236686412166856735/images_1_1.jpg?ex=6638e979&is=663797f9&hm=3a8cd0214b3cd46fb2019dc3027a9b717f6e0177da7ca4ceebdaf1fe92ffd287&')
-    .setAssetsLargeText('Developer of CattyPal')
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1233782937795821660/1236686399999180861/IMG_20240423_210648-removebg-preview.png?ex=6638e976&is=663797f6&hm=a237809c2c5d20f98b13e58006d5d4402a07935e2031ce86baaf55ea3f462730&')
+    .setAssetsLargeImage('https://cdn.discordapp.com/avatars/1233698268584870010/59af548103283e995527e9cbfe59d640.webp?size=2048')
+    .setAssetsLargeText('Developer of Raditic Bot, CattyPal Bot')
+    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/1153611682250227764/f68f534e605abf7ab9d350b3bdcd7cdd.png?size=1024')
     .setAssetsSmallText('🥀!NotBlackness </>')
-        .addButton('CattyPal Support Server', "https://discord.com/invite/yyudU8K6fe")
-    .addButton('Add CattyPal', "https://discord.com/oauth2/authorize?client_id=1229438321395109929&permissions=8&scope=bot+applications.commands")
+        .addButton('My Discord Server', "https://discord.com/invite/3H8Rn93ccD")
+    .addButton('Add Raditic Bot', "https://discord.com/oauth2/authorize?client_id=1233698268584870010&permissions=8&integration_type=0&scope=bot+applications.commands")
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "idle" });
